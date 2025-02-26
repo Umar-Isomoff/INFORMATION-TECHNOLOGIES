@@ -1,0 +1,201 @@
+
+/* brand-color: #FF7500 
+hero-bg: #252420;
+gray-bg: #F8F8F8; */
+
+*,html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+head{
+    border: 10px solid #FF7500 ;
+    border-bottom: white;
+    border-right: white;
+    border-left: white;
+}
+body{
+    border: 10px solid #FF7500 ;
+    border-bottom: white;
+    border-right: white;
+    border-left: white;
+}
+.header-wrapper{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.logo{
+    width: 187px;
+    display: block;
+}
+.link{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#252420 ;
+}
+.ota{
+   display: flex;
+   gap: 25px;
+   align-items: center;
+   
+}
+
+.btn{
+    background-color:#FF7500 ;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+}
+.container{
+    margin-left:80px;
+    margin-right:80px;
+    max-width: 1200px;
+}
+
+.ota>a:hover{
+    color: #FF7500;
+}
+
+.center{
+    background-color: #252420;
+    width: 100%;
+}
+.group{
+    display: flex;
+}
+
+.python{
+    width: 450px;
+    position: relative;
+    bottom: -80px;
+    right: -250px;
+}
+.words{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding: 80px;
+}
+h1{
+    font-size:39px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 18px;
+    color: white;
+    margin-top: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn-wrap{
+    padding: 15px;
+    width: 150px;
+    margin-top: 30px;
+}
+
+.btn-line{
+    padding: 2px;
+    width: 100px;
+    border-radius: 0px;
+    margin-bottom: 27px;
+}
+.thats{
+    color: black;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.deliver{
+    color: rgb(70, 70, 70);
+    margin-top: 10px;
+}
+.card{
+    width: 300px;
+    margin-top: 75px;
+    align-items: center;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding-bottom: 1px;
+}
+.affect{
+    margin: 180px;
+}
+.cursor{
+    margin-bottom: 40px;
+}
+.katta{
+    display: flex;
+    gap: 100px;
+}
+
+.partner{
+    margin-top: 200px;
+}
+.last{
+    background-color: #252420;
+    margin: 200px;
+    margin-top: 500px;
+    width: 1100px;
+    height: 450px;
+    border-radius: 15px;
+}
+.sgroup{
+    width: 500px;
+    padding: 50px;
+   
+}
+.p-text{
+    font-size: 18px;
+}
+span{
+    color: #FF7500;
+}
+.photo{
+    width: 480px;
+    height: 480px;
+    position: relative;
+    top: -490px;
+    left: 520px;
+}
+
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #F8F8F8;
+    width: 100%;
+    padding-top: 70px;
+}
+.socials>img{
+    width: 30px;
+}
+.r{
+    width:1200px;
+    margin-left: 140px;
+    margin-right: 175px;
+    background-color: #7e7e7e;
+    margin-top: 50px;
+}
+.last-footer{
+    background-color: #F8F8F8;
+}
+.foot{
+    background-color: #F8F8F8;
+    width: 100%;
+}
+.p-art{
+    color: black;
+}

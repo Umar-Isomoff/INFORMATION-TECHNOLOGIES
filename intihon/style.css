@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(255, 219, 165);
+    align-items: center;
+}
+section{
+    text-align: center;
+}
+
+.karta{
+    border: 8px solid blueviolet;
+    width: 500px;
+    margin: 50px 400px;
+    border-radius: 10px;
+    background-color: rgb(10, 245, 61);
+    box-shadow: -10px 10px rgb(56, 56, 56);
+}
+span{
+    color: blue;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    padding: 10px 50px;
+    background-color: rgb(17, 0, 255);
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover{
+    padding: 10px 50px;
+    background-color: rgb(253, 1, 127);
+    font-size: 25px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: grab;
+}
+button:active{
+    padding: 10px 50px;
+    background-color: rgb(253, 123, 1);
+    font-size: 25px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(76, 43, 226);
+}
+
+h1{
+    color: rgb(255, 0, 179);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+input:hover{
+    cursor:crosshair;
+    font-size: 20px;
+}

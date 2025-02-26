@@ -1,0 +1,42 @@
+*,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    padding: 20px 50px;
+    position:sticky;
+    top: 0px;
+    width: 100%;
+    z-index: 99;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+section{
+    min-height: 100vh;
+    padding: 60px;
+    margin-top: 200px;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background-color: green;
+}
+
+.quti1{
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+    font-size: 25px;
+    position: sticky;
+    top:-40px;
+    left:-40px;
+}

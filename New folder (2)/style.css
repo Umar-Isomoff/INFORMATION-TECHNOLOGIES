@@ -1,0 +1,63 @@
+.karta{
+width: 300px;
+border-radius: 7px;
+background-color: white;
+text-align: center;
+margin: 100px 250px;
+}
+
+h1{
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    border: none;
+}
+
+span{
+    color: blue;
+}
+
+input{
+    padding-left: 0px;
+    padding-right: 70px;
+}
+
+body{
+    background-color: rgb(20, 131, 44);
+}
+.qosh{
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    padding:20px 20px;
+}
+.ay{
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    padding:20px 20px;
+}
+.ko{
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    padding:20px 20px;
+}
+.bo{
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    padding:20px 20px;
+}

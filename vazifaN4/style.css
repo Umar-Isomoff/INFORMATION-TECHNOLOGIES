@@ -1,0 +1,38 @@
+.ota {
+    background-color: rgb(153,93,181);
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.bola {
+    background-color: rgb(247,148,30);
+    width:150px;
+    height:150px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: xx-large;
+
+}
+.ota {
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-around;
+}
+
+.bola1{
+    order: 3;
+    flex-shrink: 2;
+    
+
+}
+.bola2{
+    order: 2;
+}
+.bola3{
+    order: 1;
+}
+.bola4{
+    order: 4;
+}
